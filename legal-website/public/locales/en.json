@@ -1,0 +1,65 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Services",
+    "blog": "Blog",
+    "team": "Our Team",
+    "contact": "Contacts us",
+    "bookAppointment": "Book Appointment",
+    "search": "Search"
+  },
+  "services": {
+    "legalConsultation": "Legal Consultation Services",
+    "foreignInvestment": "Foreign Investment Services",
+    "contracts": "Contracts",
+    "notarization": "Notarization",
+    "insurance": "Insurance",
+    "defenseAllCases": "and Defense in All Cases",
+    "banksFinancial": "Banks and Financial Institutions",
+    "corporateGovernance": "Corporate Governance Services",
+    "companiesLiquidation": "Companies Liquidation",
+    "internalRegulations": "Internal Regulations for Companies",
+    "servicesCompanies": "Services for Companies and Institutions",
+    "arbitration": "Arbitration",
+    "intellectualProperty": "Intellectual Property",
+    "corporateRestructuring": "Corporate Restructuring and Reorganization",
+    "establishingCompanies": "Establishing National and Foreign Companies",
+    "commercialAgencies": "Commercial Agencies",
+    "supportingVision": "Supporting Vision 2030",
+    "estates": "Estates"
+  },
+  "hero": {
+    "title": "Lorem Ipsum",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "readMore": "Read More"
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "nameHere": "Name Here",
+    "positionHere": "POSITION HERE"
+  },
+  "testimonials": {
+    "title": "What our clients are saying",
+    "description": "Our clients range from individual investors, to local international as well as fortune 500 companies.Our clients range from individual investors, to local international as well as fortune 500 companies.",
+    "testimonial": "With the help of the hospitable staff of Al Safar and Partners I was able to get my work done without any hassle. The help I received helped me a great deal to overcome the issues that I faced. I was always updated about my case and my queries never went unanswered.",
+    "clientName": "Mohammed Saif",
+    "clientTitle": "CEO/Company"
+  },
+  "footer": {
+    "about": "About",
+    "ourStrategy": "Our Strategy",
+    "ourAdvantages": "Our Advantages",
+    "socialResponsibility": "Social Responsibility",
+    "ourServices": "Our Services",
+    "contacts": "Contacts",
+    "subscribe": "Subscribe",
+    "email": "Email",
+    "copyright": "© 2024. All rights reserved."
+  },
+  "common": {
+    "language": "En",
+    "switchToArabic": "العربية"
+  }
+}
