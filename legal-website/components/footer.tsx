@@ -61,12 +61,9 @@ const handleSubmit = (
                     placeholder={t("footer.email")}
                     className="bg-white text-gray-900 px-4 py-2 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-orange-300 w-full sm:w-64"
                   />
-                  <ErrorMessage
-                    name="email"
-                    component="div"
-                    className="text-red-400 text-xs mt-1"
-                  />
+                
                 </div>
+                
                 <button
                   type="submit"
                   disabled={isSubmitting}
@@ -74,6 +71,11 @@ const handleSubmit = (
                 >
                   {t("footer.subscribe")}
                 </button>
+                  <ErrorMessage
+                    name="email"
+                    component="div"
+                    className="text-white text-xs mt-1"
+                  />
               </Form>
             )}
           </Formik>

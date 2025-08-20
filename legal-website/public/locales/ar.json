@@ -48,6 +48,8 @@
     "clientTitle": "الرئيس التنفيذي/الشركة"
   },
   "footer": {
+    "invalidEmail":"الايميل غير صالح",
+     "required":"هذا الحقل مطلوب",
     "about": "من نحن",
     "ourStrategy": "استراتيجيتنا",
     "ourAdvantages": "مزايانا",

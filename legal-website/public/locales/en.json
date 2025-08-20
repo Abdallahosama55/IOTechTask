@@ -48,6 +48,8 @@
     "clientTitle": "CEO/Company"
   },
   "footer": {
+    "invalidEmail":"Invalid Email",
+    "required":"Required Email",
     "about": "About",
     "ourStrategy": "Our Strategy",
     "ourAdvantages": "Our Advantages",
